@@ -202,10 +202,11 @@ $ git clone https://github.com/Wanted-Pre-Onboarding-Team1/Oneflix
 $ npm install
 ```
 
-### # develop 서버 실행
+### # 프로젝트 실행
 
 ```
-$ npm start
+$ npm run server # json server 실행
+$ npm start # 개발 서버 실행
 ```
 
 ### # branch에서 작업
